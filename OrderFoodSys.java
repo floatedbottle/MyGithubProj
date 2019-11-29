@@ -220,6 +220,6 @@ public class OrderFoodSys {
                 break;
             }
         }while (num==0);
-        System.out.println("谢谢使用。欢迎下次再来！");
+        System.out.println("谢谢使用。欢迎下次光临！");
     }
 }
